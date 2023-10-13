@@ -76,7 +76,7 @@ const OurTeam = () => {
       name: "Tim Draper",
       position: "Founder, DFJ, Ideaflow Investor",
       description:
-        "The amount of value that can be unlocked by connecting the right people and ideas together is incredible. I’m very excited for what Ideaflow is building",
+        "Past: Co-Founder of AppJet, created Etherpad (acquired by Google); YC W07. 1st Engineer at Meteor"
     },
 
       {
