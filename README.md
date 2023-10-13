@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# Ideaflow Hiring Webpage
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Hiring Webpage repository! This project is a simple web application built using ReactJS, React Router, State Management, and Tailwind CSS. It is designed to showcase a website with the following pages: Home, About, Hiring, Contact Us, and Our Team. Whether you're looking to hire new talent or you're a job seeker, this webpage has something for you.
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+- [Demo](#demo)
+- [Tech Stack](#tech-stack)
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
 
-### `npm start`
+## Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+You can see a live demo of this Hiring Webpage at [Demo Link](#)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Tech Stack
 
-### `npm test`
+This project is built using the following technologies and libraries:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [React](https://reactjs.org/): A JavaScript library for building user interfaces.
+- [React Router](https://reactrouter.com/): Declarative routing for React applications.
+- State Management: React Hooks
+- [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for quickly building custom designs.
 
-### `npm run build`
+## Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This Hiring Webpage provides the following pages and features:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. **Home Page:**
+   - Introduction to your company or organization.
+   - Links to other sections of the webpage.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. **About Page:**
+   - Detailed information about your company, its history, and mission.
 
-### `npm run eject`
+3. **Hiring Page:**
+   - Information for job seekers, such as available positions, application process, and benefits.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+4. **Contact Us Page:**
+   - A form or contact information to allow visitors to get in touch with your team.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+5. **Our Team Page:**
+   - Shows team members with their profiles and roles in the organization.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Project Structure
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+The project structure is organized as follows:
 
-## Learn More
+```plaintext
+hiring-webpage/
+  ├── src/
+  │   ├── components/          # Reusable components
+  │   ├── pages/               # Page components (Home, About, Hiring, Contact Us, Our Team)
+  │   ├── App.js               # Main application component
+  │   ├── index.js             # Entry point for the application
+  └── ...
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
