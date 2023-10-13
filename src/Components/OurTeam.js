@@ -71,6 +71,14 @@ const OurTeam = () => {
           "Past: Co-Founder of AppJet, created Etherpad (acquired by Google); YC W07. 1st Engineer at Meteor.",
       },
 
+            {
+      imageurl: 'https://uploads-ssl.webflow.com/5ef95ae22a251e0c9030800e/5efac266b0171beef967fcc0_Avatar-%20TD.png',
+      name: "Tim Draper",
+      position: "Founder, DFJ, Ideaflow Investor",
+      description:
+        "The amount of value that can be unlocked by connecting the right people and ideas together is incredible. I’m very excited for what Ideaflow is building",
+    },
+
       {
         imageurl:
           "https://uploads-ssl.webflow.com/5ef95ae22a251e0c9030800e/5f07f06964242a43c2e9de66_Avatar-%20BM.png",
