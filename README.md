@@ -29,17 +29,17 @@ This project is built using the following technologies and libraries:
 This Hiring Webpage provides the following pages and features:
 
 1. **Home Page:**
-   - Introduction to your company or organization.
+   - Introduction to company, organization.
    - Links to other sections of the webpage.
 
 2. **About Page:**
-   - Detailed information about your company, its history, and mission.
+   - Detailed information about company, its history, and mission.
 
 3. **Hiring Page:**
    - Information for job seekers, such as available positions, application process, and benefits.
 
 4. **Contact Us Page:**
-   - A form or contact information to allow visitors to get in touch with your team.
+   - A form to allow visitors to get in touch with team.
 
 5. **Our Team Page:**
    - Shows team members with their profiles and roles in the organization.
