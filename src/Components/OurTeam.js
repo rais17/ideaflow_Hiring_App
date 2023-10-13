@@ -80,6 +80,14 @@ const OurTeam = () => {
           "Past: Serial Entrepreneur. Engineering Manager at Apple. Director of Engineering at Shone; YC W18",
       },
 
+              {
+        imageurl:
+          "https://uploads-ssl.webflow.com/5ef95ae22a251e0c9030800e/5efac266b0171beef967fcc0_Avatar-%20TD.png",
+        name: "Tim Draper",
+        position: "Founder of Draper Associates",
+        description: "Past: Co-Founder of AppJet, created Etherpad (acquired by Google); YC W07. 1st Engineer at Meteor",
+      },
+
       {
         imageurl:
           "https://uploads-ssl.webflow.com/5ef95ae22a251e0c9030800e/61d8de932703b42b586624d9_Albert.png",
